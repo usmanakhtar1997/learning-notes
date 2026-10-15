@@ -6,6 +6,7 @@ I build SaigeSDR, an AI copilot for outbound sales teams. These notes track the 
 
 ## Notes
 - [Week 1](week-1.md): APIs, OAuth, webhooks, row level security, dev vs live, migration
+- [Week 2](week-2.md): 4-line architecture (front-end, back-end, database, outside services)
 
 ## Topics I'm working through
 - APIs and integrations
